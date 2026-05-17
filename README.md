@@ -73,8 +73,7 @@ LangGraph multi-agent orchestration with intent classification,
 LLM guardrails for safe outputs, and ElevenLabs TTS for voice responses.
 End-to-end latency: **sub-400ms** across 50+ simulated interactions.
 
-This wasn't a course project. It was designed, built, and optimized
-the way a real production system should be.
+
 
 [→ View Repository](https://github.com/akh1la/AI-Call-Agent-master)
 
@@ -98,14 +97,11 @@ they're the ones that solve real problems for real people."*
 
 — Something I remind myself every time I open a new notebook.
 
-## 📬 Let's Connect
+## 🌐 Socials
 
-I'm actively looking for AI/ML Engineer and Python Developer roles.
-If you're building something interesting or just want to talk AI — reach out.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilas1)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhilas.0812@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat&logo=github&logoColor=white)](https://github.com/akh1la)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/a.khiila)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilas1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhilas.0812@gmail.com)
 
 
 ⭐ *If you find my work interesting, consider starring my repos — it means a lot!*
