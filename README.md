@@ -1,5 +1,5 @@
 # Hi, I'm Akhila S 👋
-### AI/ML Engineer | CS Graduate | Trivandrum, India
+### CS Graduate | 📍 Trivandrum, India
 
 I'm a Computer Science graduate who builds production-grade AI systems —
 not just prototypes, but real pipelines that scale, handle edge cases,
@@ -9,19 +9,7 @@ My focus is Generative AI, LLMs, and multi-agent systems. I care deeply
 about the gap between "AI that works in a notebook" and "AI that works
 in the real world" — and I spend most of my time closing that gap.
 
-📍 Trivandrum, India &nbsp;|&nbsp; 📬 akhilas.0812@gmail.com &nbsp;|&nbsp;
-🔗 [LinkedIn](https://linkedin.com/in/akhilas1) &nbsp;|&nbsp; Open to Remote & Relocation
-
-> 🟢 **Open to Work** — AI/ML Engineer | Python Developer | Entry-level roles
-
-## 🧠 About Me
-
-- 🎓 B.Tech in Computer Science & Engineering — Mohandas College of Engineering (2026)
-- 🤖 I build multimodal AI systems, RAG pipelines, and LLM-powered applications
-- 🔬 Strong flair for R&D — I read papers, test ideas, and ship what works
-- ⚡ I've deployed systems with sub-400ms latency handling voice, text, and image inputs
-- 💬 I believe great AI engineering is 20% models and 80% systems thinking
-
+> 🟢 **Open to Work** — Software Developer | AI/ML Engineer | Python Developer | Entry-level roles
 
 
 ## 🛠️ Tech Stack
@@ -102,11 +90,6 @@ Built it because it was a fun problem. Shipped it because it actually worked.
 
 [→ View Repository](https://github.com/akh1la/ai-cook)
 
-## 📊 GitHub Stats
-
-![Akhila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akh1la&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akh1la&layout=compact&theme=tokyonight&hide_border=true)
-
 
 ## 💬 Dev Quote
 
@@ -114,8 +97,6 @@ Built it because it was a fun problem. Shipped it because it actually worked.
 they're the ones that solve real problems for real people."*
 
 — Something I remind myself every time I open a new notebook.
-
----
 
 ## 📬 Let's Connect
 
@@ -126,6 +107,5 @@ If you're building something interesting or just want to talk AI — reach out.
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:akhilas.0812@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat&logo=github&logoColor=white)](https://github.com/akh1la)
 
----
 
 ⭐ *If you find my work interesting, consider starring my repos — it means a lot!*
